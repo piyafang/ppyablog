@@ -1,0 +1,21 @@
+{
+  "name": "pyfblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "piyafang@163.com"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/piyafang/ppyablog.git",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
